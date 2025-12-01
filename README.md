@@ -1,4 +1,4 @@
-<p><span style="color:#00CED1"><b> 🚀 Easy-IRAN-Passwall.</b></span></p>
+# 🚀 Easy-IRAN-Passwall.
 
 
 ## ● توضیحات:
