@@ -216,7 +216,7 @@ ff00::/8'
 uci set passwall2.Direct.domain_list='regexp:^.+\.ir$
 geosite:category-ir'
 
-log_ok "IRAN Geo (ip/site) direct rules is set..."
+log_ok "IRAN Geo (IP/site) direct rules have been set..."
 
 ### 9. International direct rule
 echo ""
@@ -295,7 +295,7 @@ uci set passwall2.myshunt.Direct='_direct'
 uci set passwall2.myshunt.DirectGame='_direct'
 uci delete passwall2.myshunt
 
-log_ok " International Public (ip/site) direct rules is set..."
+log_ok "International public (IP/site) direct rules have been set..."
 
 echo ""
 log_repo "---------------------------------------------------------------"
