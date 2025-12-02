@@ -120,11 +120,9 @@ chmod +x Passwall-IR.sh && ./Passwall-IR.sh
 
 ---
 
----
 
 <br>
-<br>
-<br>
+
 
 
   <img width="1024" height="450" alt="Image" src="https://github.com/user-attachments/assets/ace11d99-b142-4964-b890-71204d9cac41" />
